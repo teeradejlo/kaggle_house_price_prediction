@@ -175,7 +175,7 @@ OverallCond: Rates the overall condition of the house
        2	Poor
        1	Very Poor
 		
-YearBuilt: Original construction date
+garagBuilt: Original construction date
 
 YearRemodAdd: Remodel date (same as construction date if no remodeling or additions)
 
@@ -374,9 +374,9 @@ FullBath: Full bathrooms above grade
 
 HalfBath: Half baths above grade
 
-Bedroom: Bedrooms above grade (does NOT include basement bedrooms)
+BedroomAbvGr: Bedrooms above grade (does NOT include basement bedrooms)
 
-Kitchen: Kitchens above grade
+KitchenAbvGr: Kitchens above grade
 
 KitchenQual: Kitchen quality
 
